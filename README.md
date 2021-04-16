@@ -1,35 +1,5 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-Welcome to Project 2! Let's model!
-
-**Primary Learning Objectives:**
-1. Creating and iteratively refining a regression model.
-2. Using [Kaggle](https://www.kaggle.com) to practice the modeling process.
-3. Providing business insights through reporting and presentation.
-
-You are tasked with creating a machine learning model based on the Ames Housing Dataset. This model will predict the price of a house at sale.
-
-The Ames Housing Dataset is contains over 70 columns of different features relating to houses.
-
----
-## Deliverables 
-
-- We are hosting a competition on Kaggle to give you the opportunity to practice your modeling skills. You must upload at least one of your model's predictions to the competition.
-- You will submit a technical report and a presentation in your submission Repo. 
-- You will present your findings to your classmates and instructors.
-
-**You may find that the best model for Kaggle is not the best model to address your data science problem.**
-
-
-## Set up
-
-Before you begin working on this project, please do the following:
-
-1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click here: [Regression Challenge Sign Up](https://www.kaggle.com/t/7266ab384a5444fa92591f8dceac016d) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the Kaggle challenge site.
-4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
-
 ## The Modeling Process
 
 1. The train dataset has all of the columns that you will need to generate and refine your models. The test dataset has all of those columns except for the target that you are trying to predict in your Regression model.
@@ -145,31 +115,3 @@ I have identified what features are the best predictors of housing price.  I hav
 - Are unnecessary files included?
 - Do files and directories have well-structured, appropriate, consistent names?
 
-**Visualizations**
-- Are sufficient helpful visualizations provided?
-- Are plots labeled properly?
-- Are plots interpreted appropriately?
-- Are plots formatted and scaled appropriately for inclusion in a notebook-based technical report?
-
-**Python Syntax and Control Flow**
-- Is care taken to write human readable code?
-- Is the code syntactically correct (no runtime errors)?
-- Does the code generate desired results (logically correct)?
-- Does the code follow general best practices?
-
-**Presentation**
-- Is the problem statement clearly presented?
-- Does the body of the presentation building address the problem statement and lead to the conclusion?
-- Is the conclusion/recommendations clearly stated?
-- Is the level of technicality appropriate for the intended audience?
-- Does the student deliver their message clearly?
-- Are appropriate visualizations generated for the intended audience?
-- Are visualizations useful for supporting conclusions/explaining findings?
-
-In order to pass the project, students must earn a minimum score of 1 for each category.
-- Earning below a 1 in one or more of the above categories would result in a failing project.
-- While a minimum of 1 in each category is the required threshold for graduation, students should aim to earn at least an average of 1.5 across each category. An average score below 1.5, while it may be passing, means students may want to solicit specific feedback in order to significantly improve the project before showcasing it as part of a portfolio or the job search.
-
-### REMEMBER:
-
-This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll grow!**

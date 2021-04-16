@@ -5,10 +5,6 @@
 I have clients who want to invest in houses either by selling or buying.  They want to know what features are going to most influence the price of the house.  The information I am presenting should help them to make an informed decision.
 The goal of this project is to help my clients find a desired house for a decent price by building a regression model that will best predict the sale price.  The data I use is from Ames Housing Spreadsheet
 
-Data Dictionary
-click the link (https://git.generalassemb.ly/gc/project_2/blob/master/datasets/train.csv)
-
-
 ### Executive Summary
 
 This analysis will take the following steps to generate predictions of home prices:
@@ -26,29 +22,6 @@ This report concludes that the following elements have the greatest impact on th
 - TotalBsmtSF
 - GrLivArea
 - FullBath	
-
-**Data Cleaning and EDA**
-- Are missing values dealt with?
-- Are important distributions examined and described?
-- Are outliers identified and addressed?
-- Are appropriate summary statistics provided?
-- Are possible modeling insights to investigate discussed?
-
-**Preprocessing and Modeling**
-- Are categorical variables one-hot encoded or encoded in another logical way?
-- Are features engineered?
-- Have the data been scaled appropriately?
-- Does the student properly split the data for validation/training purposes?
-- Does the student use feature selection to remove noisy or multi-collinear features?
-- Does the student test and evaluate a variety of model types (**AT MINIMUM:** linear regression, lasso, and ridge)?
-- Does the student defend their choice of the best model for this data and problem statement?
-- Does the student explain how the model works and evaluate its performance successes/downfalls?
-
-**Evaluation and Conceptual Understanding**
-- Does the student accurately identify and explain the baseline score?
-- Does the student select and use metrics relevant to the problem statement?
-- Is more than one metric uses to better assess performance?
-- Does the student correctly interpret the results of their model for purposes of inference?
 
 **Conclusion and Recommendations**
 

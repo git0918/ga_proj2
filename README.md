@@ -18,7 +18,7 @@ I have clients who want to invest in houses either by selling or buying.  They w
 The goal of this project is to help my clients find a desired house for a decent price by building a regression model that will best predict the sale price.  The data I use is from Ames Housing Spreadsheet
 
 Data Dictionary
-Data Dictionary link (https://git.generalassemb.ly/gc/project_2/blob/master/datasets/train.csv)
+click the link (https://git.generalassemb.ly/gc/project_2/blob/master/datasets/train.csv)
 
 
 **Data Cleaning and EDA**

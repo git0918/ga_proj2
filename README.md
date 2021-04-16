@@ -95,6 +95,7 @@ Your local instructor will evaluate your project (for the most part) using the f
 ### The Data Science Process
 
 **Problem Statement**
+
 I have clients who want to invest in houses either by selling or buying.  They want to know what features are going to most influence the price of the house.  The information I am presenting should help them to make an informed decision.
 The goal of this project is to help my clients find a desired house for a decent price by building a regression model that will best predict the sale price.  The data I use is from Ames Housing Spreadsheet
 

@@ -124,11 +124,15 @@ The goal of this project is to help my clients find a desired house for a decent
 - Does the student correctly interpret the results of their model for purposes of inference?
 
 **Conclusion and Recommendations**
-- Are the conclusions/recommendations clearly stated?
-- Does the conclusion answer the original problem statement?
-- Is it clear how the final recommendations were reached? Do they follow logically?
-- Does the student address how their suggestions will likely benefit stakeholders?
-- Are future steps to move the project forward identified?
+
+I have identified what features are the best predictors of housing price.  I have addressed missing data and outliers and improved my model by Ridge and Lasso.  I finally have created a regression model and was able to generate new data to predict sale price.  Now I can recommend the following to my clients:
+
+Invest in a house with a large living area  
+Invest in a house that has good overall quality
+Invest in a house that was built recently
+Invest in a house that has more full bath rooms
+Invest in a house with higher basement square footage 
+
 
 ### Organization and Professionalism
 

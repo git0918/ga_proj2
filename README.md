@@ -38,6 +38,13 @@ Data Dictionary link (https://git.generalassemb.ly/gc/project_2/blob/master/data
 - Does the student defend their choice of the best model for this data and problem statement?
 - Does the student explain how the model works and evaluate its performance successes/downfalls?
 
+Model Name	Training Score	Testing Score
+Baseline / Null Model	0%	0%
+Linear Regression (Overfit)	74.30%	77.85%
+Ridge	78.76%	78.99%
+LASSO	78.76%	78.99%
+
+
 **Evaluation and Conceptual Understanding**
 - Does the student accurately identify and explain the baseline score?
 - Does the student select and use metrics relevant to the problem statement?

@@ -18,7 +18,7 @@ I have clients who want to invest in houses either by selling or buying.  They w
 The goal of this project is to help my clients find a desired house for a decent price by building a regression model that will best predict the sale price.  The data I use is from Ames Housing Spreadsheet
 
 Data Dictionary
-A link to the data dictionary can be found [here] (https://git.generalassemb.ly/gc/project_2/blob/master/datasets/train.csv)
+Data Dictionary link (https://git.generalassemb.ly/gc/project_2/blob/master/datasets/train.csv)
 
 
 **Data Cleaning and EDA**
@@ -53,16 +53,3 @@ I have identified what features are the best predictors of housing price.  I hav
 - Invest in a house that was built recently
 - Invest in a house that has more full bath rooms
 - Invest in a house with higher basement square footage 
-
-
-### Organization and Professionalism
-
-**Project Organization**
-- Are modules imported correctly (using appropriate aliases)?
-- Are data imported/saved using relative paths (so someone can replicate your analysis)?
-- Does the README provide a good executive summary of the project?
-- Is Markdown formatting and comments used appropriately to communicate in the notebooks?
-- Are files & directories organized?
-- Are unnecessary files included?
-- Do files and directories have well-structured, appropriate, consistent names?
-

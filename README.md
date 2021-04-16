@@ -62,6 +62,8 @@ Your local instructor will evaluate your project (for the most part) using the f
 | **2** | *Project exceeds the minimum requirements for this item, but falls short of portfolio-ready expectations.* |
 | **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
 
+#### Executive Summary
+
 ### The Data Science Process
 
 **Problem Statement**

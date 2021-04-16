@@ -1,16 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-Your technical report must include:
-
-- A README.md (that isn't this file)
-- Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- Data files
-- Presentation slides
-- Any other necessary files (images, etc.)
-
 ## Executive Summary
-
-### The Data Science Process
 
 **Problem Statement**
 

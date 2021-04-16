@@ -127,11 +127,11 @@ The goal of this project is to help my clients find a desired house for a decent
 
 I have identified what features are the best predictors of housing price.  I have addressed missing data and outliers and improved my model by Ridge and Lasso.  I finally have created a regression model and was able to generate new data to predict sale price.  Now I can recommend the following to my clients:
 
-Invest in a house with a large living area  
-Invest in a house that has good overall quality
-Invest in a house that was built recently
-Invest in a house that has more full bath rooms
-Invest in a house with higher basement square footage 
+- Invest in a house with a large living area  
+- Invest in a house that has good overall quality
+- Invest in a house that was built recently
+- Invest in a house that has more full bath rooms
+- Invest in a house with higher basement square footage 
 
 
 ### Organization and Professionalism

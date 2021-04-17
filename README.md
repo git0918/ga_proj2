@@ -11,7 +11,7 @@ This analysis will take the following steps to generate predictions of home pric
 
 - Systematically clean and transform data features
 - Conduct exploratory analysis, in order to understand the relationships between variables, and their wider implications on housing market value
-- Build and fit a predictive model, based on a curated group of features from this data set, that can be used on unseen housing data to accurately predict sale prices 
+- Build and fit a predictive model, based on a curated group of features from this data set, that can be used on unseen housing data to accurately predict sale prices
 
 ### Insights
 
@@ -21,7 +21,21 @@ This report concludes that the following elements have the greatest impact on th
 - YearBuilt
 - TotalBsmtSF
 - GrLivArea
-- FullBath	
+- FullBath
+
+### Modeling
+The main notebook begins by importing and cleaning a training data set of 2051 homes with 80 different features. Once cleaned, I examined the extent of the correlation between each feature as well as to SalePrice, our target variable and identified main features for the model I built.
+Besides the EDA analysis, I have performed log transformation and also generated RMSE and R2 scores for all three models.  The data listed below:
+
+#### for RMSE comparisons:
+- rmse = 33612.327986636046
+- rmse_ridge = 35277.752341545456
+- rmse_lasso = 34051.57325362071
+
+#### for R2 Score comparisons:
+- (0.7870948662958206, 0.7905485853922427) for linear regression
+- (0.7867968596811882, 0.7881703836747072) for Ridge
+- (0.7862851949031171, 0.7880428585438313 for Lasso
 
 **Conclusion and Recommendations**
 
@@ -31,4 +45,4 @@ I have identified what features are the best predictors of housing price.  I hav
 - Invest in a house that has good overall quality
 - Invest in a house that was built recently
 - Invest in a house that has more full bath rooms
-- Invest in a house with higher basement square footage 
+- Invest in a house with higher basement square footage
